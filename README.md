@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I’m currently working on C/C++, ESP32 based systems and Internet of Things applications
+🌱 I’m currently learning Flutter
+👯 I’m looking to collaborate on Python based data science and analytics projects
+📫 How to reach me: basheer (at) basheer.net
+
 <!--
 **bash07/bash07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

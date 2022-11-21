@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on C/C++, ESP32 based systems and Internet of Things applications
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Python based data science and analytics projects
+- 👯 I’m looking to collaborate on Python based data science and analytics projects, specifically on financial markets
+- 🔭 Previously worked on C/C++, ESP32 based systems and Internet of Things applications
 - 📫 How to reach me: basheer (at) basheer.net
 
 <!--
